@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/buy_img"
+        android:src="@drawable/plant1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:text="Grow fresh, tasty and pure greens all-year-round. Plantui Plant Capsules™ are soil-free and ready-to-use."
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Max Sunlight: 50%"
+        android:textAlignment="center"
+        android:id="@+id/max_sun"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="Max Temperature: 30"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="TIme Span: 30 Days"
+        android:textAlignment="center"/>
+
+
+</LinearLayout>

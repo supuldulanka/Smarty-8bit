@@ -36,7 +36,6 @@
             android:id="@+id/imageView"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            android:paddingTop="@dimen/nav_header_vertical_spacing"
             android:src="@drawable/plant1"
             android:layout_below="@+id/textView2"
             android:layout_centerHorizontal="true" />
