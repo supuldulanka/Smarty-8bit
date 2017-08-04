@@ -75,7 +75,7 @@ public class StoreFragment extends android.support.v4.app.Fragment {
 
                 AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(v.getContext());
                 // set title
-                alertDialogBuilder.setTitle("       Swamp Thing");
+                alertDialogBuilder.setTitle("             Swamp Thing");
 
                 // set dialog message
                 alertDialogBuilder
